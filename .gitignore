@@ -130,5 +130,5 @@ dmypy.json
 
 .idea
 .DS_Store
-.hitstory/
+.history
 .vscode
